@@ -1,6 +1,6 @@
-#Tiny Shell
+# Tiny Shell
 
-*while(!end_of_input)
-*get command
-*executecommand
-*wait for command to finish
+* while (! end_of_input)    
+        get command
+        execute command
+        wait for command to finish
